@@ -22,7 +22,7 @@ A beautifully crafted Next.js website designed for the Wild Oasis Hotel. It offe
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/the-wild-oasis-website.git
+   git clone https://github.com/callmedeci/the-wild-oasis-website.git
    cd the-wild-oasis-website
    ```
 
