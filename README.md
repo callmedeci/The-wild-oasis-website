@@ -1,7 +1,7 @@
 # The Wild Oasis Website
 
 <p align="center">
-  <img src="./public/logo.png" alt="Wild Oasis website Logo" width="200" />
+  <img src="https://github.com/callmedeci/The-wild-oasis-website/blob/main/public/logo.png" alt="Wild Oasis website Logo" width="200" />
 </p>
 
 A beautifully crafted Next.js website designed for the Wild Oasis Hotel. It offers a seamless booking experience with secure authentication, modern UI, and a smooth, intuitive design.
